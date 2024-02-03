@@ -1,1 +1,2 @@
-echo "Esto es una prueba3" 
+echo "Esto es una prueba"
+echo "Realización de actualización"
